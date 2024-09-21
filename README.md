@@ -3,9 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- **B.Tech.**, Pure and Applied Mathematics | **Ladoke Akintola University of Technology** (_May 2022_)
 
 ## 🧠 Skills
 - **Programming Languages**: Python, R, SQL
@@ -25,15 +23,16 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## 🛠️ Projects
-### 1. **[Project Title](https://link-to-project.com)**
-   - **Description**: A brief explanation of the problem, solution, and impact.
-   - **Technologies Used**: Python, Pandas, Scikit-learn, etc.
-   - **Key Achievements**: Improved prediction accuracy by 15%, reduced data processing time by 20%, etc.
+### 1. **[Handwritten-Digit-Recognition](https://link-to-project.com)**
+   - **Description**: This project is a handwritten digit recognition system using logistic regression. It is trained on the sklearn ready-made handwritten digit dataset to predict the class of digits (0-9). The goal is to showcase the model's performance in classifying handwritten digits
+   - **Technologies Used**: Python, Scikit-learn, etc.
+   - **Key Achievements**: Achieved high accuracy in recognizing handwritten digits
+![Handwritten-Digit-Recognition](/assets/images/Handwritten-Digit-Recognition.png)
 
 ### 2. **[Project Title](https://link-to-project.com)**
    - **Description**: Focused on [topic] using [approach].
    - **Technologies Used**: Python, NLP, TensorFlow, etc.
-   - **Key Achievements**: Built a sentiment analysis model with 85% accuracy, etc.
+   - **Key Achievements**: Achieved high accuracy in recognizing handwritten digits
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -48,7 +47,7 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 - [Award Name] (e.g., Kaggle Competition – Top 5%)
 
 ## 📫 Contact
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-profile)
-Key Sections:
+- **Email**: samueloluwatobi54@gmail.com
+- **LinkedIn**: https://linkedin.com/in/your-profile
+- **GitHub**: https://github.com/suntwister
+
